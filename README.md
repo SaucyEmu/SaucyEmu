@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SaucyEmu
-- 👀 I’m interested in computer-vision, machine-learning and yolo
-- 🌱 I’m currently learning medical ai
+- 👀 I’m interested in computer-vision, machine-learning and medical ai
+- 🌱 I’m currently learning yolo
 - 💞️ I’m looking to collaborate with anyone interested in start up life
 - 📫 How to reach me collette.meyers@gmail.com
 
